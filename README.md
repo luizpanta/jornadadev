@@ -1,6 +1,6 @@
 # TikTok Clone
 
-<img alt="Static Badge" src="https://img.shields.io/badge/projects_status-on_progress-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/projects_status-ready_for_deploy-green">
 
 This project is part of EBAC - Jornada FULL STACK: Criando um clone do TikTok!.
 
