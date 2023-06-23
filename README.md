@@ -10,6 +10,7 @@
   <img align="center" alt="Dudu-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
+
 This project is part of EBAC - Jornada FULL STACK: Criando um clone do TikTok!.
 
 ## Available Scripts
