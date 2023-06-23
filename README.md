@@ -2,6 +2,14 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/projects_status-ready_for_deploy-green">
 
+<div>
+  <img align="center" alt="Dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Dudu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Dudu-Node-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Dudu-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+
 This project is part of EBAC - Jornada FULL STACK: Criando um clone do TikTok!.
 
 ## Available Scripts
